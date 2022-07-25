@@ -1,2 +1,2 @@
 # ADS500B
-Repository of projects for USD Master's in Applied Data Science
+Repository for the final project for USD Master's in Applied Data Science
